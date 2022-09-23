@@ -36,7 +36,7 @@ You will need a [PaperMC](https://papermc.io/) server up and runing
 
 ### Installation
 
-the steps to install this plugin are [same](https://docs.papermc.io/paper/adding-plugins) to install anyone, the only difference it's at the config file, so let's start
+The steps to install this plugin are [same](https://docs.papermc.io/paper/adding-plugins) to install anyone, the only difference it's at the config file, so let's start
 
 1. <a href="#contact">Contact us</a> to get your API KEY
 2. Download the [SuperLog.jar](SuperLog.jar) file
