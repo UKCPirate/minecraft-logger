@@ -133,7 +133,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 Eric - [@ericattreis](https://github.com/ericattreis)
 
-Project Link: [minecraft.eosusa.id](https://minecraft.eosusa.io/)
+Project Link: [minecraft.eosusa.io](https://minecraft.eosusa.io/)
 
 
 <!-- ACKNOWLEDGMENTS -->
